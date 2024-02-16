@@ -1,0 +1,13 @@
+#User Profile Variables (make a total of five)
+your_age = input("How old are you? ")
+your_name = input("what is your first name? ")
+your_eye_color = input("what is your eye color? ")
+your_hair_color = input("what color is your hair? ")
+your_interests = input("what is your interests? ")
+
+#Print Out Data for User
+print(" You are " + your_age + " years old.")
+print(" Your name is " + your_name)
+print(" your eye color is " + your_eye_color)
+print(" Your hair color is " + your_hair_color)
+print(" Your interests is " + your_interests)
